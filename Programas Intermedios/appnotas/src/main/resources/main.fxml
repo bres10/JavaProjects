@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+
+<AnchorPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="app.notas.MainController">
+
+    <VBox layoutX="20" layoutY="20" spacing="10">
+        <ListView fx:id="notesListView" prefWidth="200" prefHeight="300"/>
+        <Button text="Agregar Nota" onAction="#addNote"/>
+        <Button text="Editar Nota" onAction="#editNote"/>
+        <Button text="Eliminar Nota" onAction="#deleteNote"/>
+    </VBox>
+
+</AnchorPane>

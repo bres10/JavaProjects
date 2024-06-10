@@ -1,0 +1,25 @@
+proyectos java intermedio avanzado
+
+Aplicación de Notas (GUI):
+
+Objetivo: Aprender sobre interfaces gráficas de usuario (GUI).
+Tareas: Crear una aplicación de notas con interfaz gráfica utilizando JavaFX o Swing. Permitir al usuario agregar, editar y eliminar notas.
+
+------------------------------------------------
+Chat en Tiempo Real:
+
+Objetivo: Introducirte a la programación de red y multihilo.
+Tareas: Desarrollar una aplicación de chat simple que permita la comunicación en tiempo real entre múltiples clientes. Utiliza sockets para la comunicación y maneja múltiples conexiones con hilos.
+
+*****************************************************
+Proyectos Complejos
+Sistema de Gestión de Bibliotecas:
+
+Objetivo: Combinar varios conocimientos adquiridos.
+Tareas: Desarrollar un sistema que permita gestionar libros, miembros y préstamos de una biblioteca. Utiliza una base de datos para almacenar la información, y proporciona una interfaz gráfica para la interacción con el usuario.
+
+----------------------------------------------------------
+Aplicación Web Completa:
+
+Objetivo: Introducción al desarrollo web con Java.
+Tareas: Crear una aplicación web utilizando frameworks como Spring Boot. Podrías desarrollar una tienda en línea, un sistema de gestión de tareas, etc. Implementa funcionalidades como registro de usuarios, autenticación, y CRUD (Crear, Leer, Actualizar, Eliminar) de datos.
